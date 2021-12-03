@@ -1,0 +1,16 @@
+C:\Users\cbmar\source\repos\Day2AOC\Day2AOC\obj\Debug\net5.0\Day2AOC.csproj.AssemblyReference.cache
+C:\Users\cbmar\source\repos\Day2AOC\Day2AOC\obj\Debug\net5.0\Day2AOC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cbmar\source\repos\Day2AOC\Day2AOC\obj\Debug\net5.0\Day2AOC.AssemblyInfoInputs.cache
+C:\Users\cbmar\source\repos\Day2AOC\Day2AOC\obj\Debug\net5.0\Day2AOC.AssemblyInfo.cs
+C:\Users\cbmar\source\repos\Day2AOC\Day2AOC\obj\Debug\net5.0\Day2AOC.csproj.CoreCompileInputs.cache
+C:\Users\cbmar\source\repos\Day2AOC\Day2AOC\bin\Debug\net5.0\Day2AOC.exe
+C:\Users\cbmar\source\repos\Day2AOC\Day2AOC\bin\Debug\net5.0\Day2AOC.deps.json
+C:\Users\cbmar\source\repos\Day2AOC\Day2AOC\bin\Debug\net5.0\Day2AOC.runtimeconfig.json
+C:\Users\cbmar\source\repos\Day2AOC\Day2AOC\bin\Debug\net5.0\Day2AOC.runtimeconfig.dev.json
+C:\Users\cbmar\source\repos\Day2AOC\Day2AOC\bin\Debug\net5.0\Day2AOC.dll
+C:\Users\cbmar\source\repos\Day2AOC\Day2AOC\bin\Debug\net5.0\ref\Day2AOC.dll
+C:\Users\cbmar\source\repos\Day2AOC\Day2AOC\bin\Debug\net5.0\Day2AOC.pdb
+C:\Users\cbmar\source\repos\Day2AOC\Day2AOC\obj\Debug\net5.0\Day2AOC.dll
+C:\Users\cbmar\source\repos\Day2AOC\Day2AOC\obj\Debug\net5.0\ref\Day2AOC.dll
+C:\Users\cbmar\source\repos\Day2AOC\Day2AOC\obj\Debug\net5.0\Day2AOC.pdb
+C:\Users\cbmar\source\repos\Day2AOC\Day2AOC\obj\Debug\net5.0\Day2AOC.genruntimeconfig.cache
